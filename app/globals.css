@@ -29,6 +29,13 @@
     --chart-3: 197 37% 24%;
     --chart-4: 43 74% 66%;
     --chart-5: 27 87% 67%;
+
+    /* Custom brand colors */
+    --brand-black: 40 17% 3%;
+    --brand-dark-accent: 228 10% 28%;
+    --brand-light-accent: 353 50% 29%;
+    --brand-light-bg: 15 64% 87%;
+    --brand-theme: 37 88% 67%;
   }
 
   .dark {
